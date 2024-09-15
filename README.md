@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s21dqk8gn4u514l1?svg=true)](https://ci.appveyor.com/project/lmartemyanova/hw-object)
